@@ -1,0 +1,1443 @@
+{
+  "activeLayer": 82,
+  "channels": {
+    "alpha": [],
+    "colors": [
+      {
+        "name": "Red",
+        "visible": true
+      },
+      {
+        "name": "Green",
+        "visible": true
+      },
+      {
+        "name": "Blue",
+        "visible": true
+      }
+    ],
+    "composite": "RGB",
+    "compositeVisible": true,
+    "layerMaskView": null,
+    "quickMask": null,
+    "selectedColors": null,
+    "target": {
+      "kind": "composite"
+    }
+  },
+  "depth": 8,
+  "file": "deliverables/v16/option-a/ravenxcope-a5-front-a-v16.pcraft",
+  "hasSelection": false,
+  "height": 2551,
+  "historySource": {
+    "label": "Open",
+    "state": 0
+  },
+  "isolatedLayers": [],
+  "lastAppliedComp": null,
+  "layerComps": [],
+  "layerMaskView": null,
+  "layers": [
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1386,
+            2279,
+            203,
+            112
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 107,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / len-defend-id.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 106,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "len-defend-id.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1200,
+            2281,
+            106,
+            107
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 103,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / pens.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 102,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "pens.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1073,
+            2286,
+            78,
+            99
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 99,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / hiliriset.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 98,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "hiliriset.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            839,
+            2296,
+            177,
+            79
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 95,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / ditjen-risbang.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 94,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "ditjen-risbang.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            577,
+            2303,
+            220,
+            65
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 91,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / diktisaintek-berdampak.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 90,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "diktisaintek-berdampak.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            228,
+            2301,
+            305,
+            68
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 87,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Institution logo / kemendiktisaintek.png",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 86,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "kemendiktisaintek.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            145,
+            2255,
+            1529,
+            160
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 83,
+          "kind": "Shape",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Plain white institution badge",
+          "opacity": 1.0,
+          "selected": false,
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 82,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "10_INSTITUTION_LOGOS",
+      "opacity": 1.0,
+      "selected": true,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            156,
+            2181,
+            825,
+            55
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 81,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Benefit 2",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Avenir Next Condensed",
+            "sizePt": 13.0,
+            "text": "tetapi memahami konteks aset di baliknya."
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            156,
+            2122,
+            547,
+            49
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 80,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Benefit 1",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Avenir Next Condensed",
+            "sizePt": 13.0,
+            "text": "Bukan sekadar melihat alert,"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 79,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "09_FOOTER",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1359,
+            2020,
+            261,
+            25
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 78,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "IP flow / single-line label",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 7.0,
+            "text": "Alur komunikasi IP"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1404,
+            1850,
+            172,
+            116
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 77,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "IP flow / conceptual icon",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 76,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "ip-flow-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1320,
+            1770,
+            340,
+            340
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 73,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "IP flow / translucent glass shell",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 72,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "glass-shell-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 69,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "07_FOREGROUND_CARD / IP flow",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            229,
+            1980,
+            203,
+            25
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 68,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Risk priority / single-line label",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 7.0,
+            "text": "Prioritas risiko"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            254,
+            1800,
+            152,
+            136
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 67,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Risk priority / conceptual icon",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 66,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "risk-priority-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            160,
+            1730,
+            340,
+            340
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 63,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Risk priority / translucent glass shell",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 62,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "glass-shell-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 59,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "07_FOREGROUND_CARD / Risk priority",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1399,
+            1651,
+            183,
+            24
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 58,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Asset context / single-line label",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 7.0,
+            "text": "Konteks aset"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1416,
+            1467,
+            144,
+            144
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 57,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Asset context / conceptual icon",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 56,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "asset-context-v13.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1320,
+            1400,
+            340,
+            340
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 53,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Asset context / translucent glass shell",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 52,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "glass-shell-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 49,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "07_FOREGROUND_CARD / Asset context",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            196,
+            1550,
+            266,
+            31
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 48,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Alert analysis / single-line label",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 7.0,
+            "text": "Analitik peringatan"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            258,
+            1370,
+            145,
+            137
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 47,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Alert analysis / conceptual icon",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 46,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "alert-analysis-v13.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            160,
+            1300,
+            340,
+            340
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 43,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Alert analysis / translucent glass shell",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 42,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "glass-shell-v16.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 39,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "07_FOREGROUND_CARD / Alert analysis",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            230,
+            1211,
+            1347,
+            896
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 38,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Decorative laptop clean cutout - screen transparent",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 37,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "ravenxcope-laptop-v05-cutout.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 34,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "04_LAPTOP_BODY",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            462,
+            1331,
+            982,
+            488
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": true,
+          "hasXmp": false,
+          "id": 31,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Full original Security Analytics screenshot 192316",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 30,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "Screenshot 2026-11-06 192316.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": true,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            440,
+            1280,
+            1036,
+            611
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 27,
+          "kind": "Shape",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Black screen padding",
+          "opacity": 1.0,
+          "selected": false,
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 26,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "04_LAPTOP_SCREEN",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            870,
+            1990,
+            40,
+            40
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 25,
+          "kind": "Shape",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Laptop contact shadow",
+          "opacity": 1.0,
+          "selected": false,
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 24,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "06_PRODUCT_VISUAL_DEPTH",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            157,
+            1079,
+            668,
+            44
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 23,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Positioning 3",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 10.5,
+            "text": "mendukung penentuan prioritas."
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            156,
+            1023,
+            857,
+            44
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 22,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Positioning 2",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 10.5,
+            "text": "dengan konteks dan kekritisan aset untuk"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            157,
+            967,
+            1028,
+            44
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 21,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Positioning 1",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 10.5,
+            "text": "RavenXcope menghubungkan peringatan jaringan"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            162,
+            764,
+            1031,
+            134
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 20,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Approved headline 3",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Avenir Next Condensed",
+            "sizePt": 32.0,
+            "text": "Tentukan Prioritasnya."
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            162,
+            599,
+            1144,
+            134
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 19,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Approved headline 2",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Avenir Next Condensed",
+            "sizePt": 32.0,
+            "text": "Pahami Ancamannya."
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            162,
+            434,
+            820,
+            134
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 18,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Approved headline 1",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Avenir Next Condensed",
+            "sizePt": 32.0,
+            "text": "Kenali Asetnya."
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 17,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "03_HEADLINE_AND_COPY",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1185,
+            232,
+            476,
+            28
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 16,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Category detail",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 8.0,
+            "text": "Analisis berbasis konteks aset"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1281,
+            177,
+            378,
+            30
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 15,
+          "kind": "Type",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Category",
+          "opacity": 1.0,
+          "selected": false,
+          "text": {
+            "font": "Inter",
+            "sizePt": 9.0,
+            "text": "NIDS TERDISTRIBUSI"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 14,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "03_CATEGORY",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            161,
+            151,
+            191,
+            176
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 13,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Unchanged official full lockup",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 12,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "ravenxcope-logo-transparan.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 9,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "02_BRAND_MARK",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            285,
+            910,
+            1249,
+            1250
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 8,
+          "kind": "Shape",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Atmospheric vermilion radial",
+          "opacity": 1.0,
+          "selected": false,
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            -112,
+            0,
+            2043,
+            2552
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": false,
+          "hasVectorMask": false,
+          "hasXmp": false,
+          "id": 7,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "Owner supplied decorative background A - assumed sRGB",
+          "opacity": 1.0,
+          "selected": false,
+          "smartContents": {
+            "id": 6,
+            "instances": 1
+          },
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "fileName": "ravenxcope-hero-a-background.png",
+            "kind": "embedded"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 3,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "01_BACKGROUND",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        0,
+        1819,
+        2551
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 2,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "Background",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    }
+  ],
+  "measurement": {
+    "count": 0,
+    "countGroups": 0,
+    "ruler": null,
+    "scale": "1 pixels = 1.0000 pixels"
+  },
+  "mode": "Rgb",
+  "name": "ravenxcope-a5-front-a-v16.pcraft",
+  "notes": [],
+  "path": "deliverables/v16/option-a/ravenxcope-a5-front-a-v16.pcraft",
+  "quickMask": false,
+  "resolution": 300.0,
+  "selectedLayers": [
+    82
+  ],
+  "selectionBounds": null,
+  "snapshots": [
+    {
+      "id": 0,
+      "name": "ravenxcope-a5-front-a-v16.pcraft"
+    }
+  ],
+  "symmetry": null,
+  "timeline": null,
+  "variables": null,
+  "warnings": [],
+  "width": 1819
+}

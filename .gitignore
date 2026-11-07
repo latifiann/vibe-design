@@ -1,0 +1,21 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Build logs are reproducible output; QA records remain tracked.
+/deliverables/**/*.build.log
+
+# Keep the two active editable masters; other generated masters stay local.
+/deliverables/**/*.pcraft
+!/deliverables/v16/option-a/ravenxcope-a5-front-a-v16.pcraft
+!/deliverables/v16/option-a/ravenxcope-a5-back-a-v16.pcraft
+
+# Visual references and superseded full-size proof exports, not build inputs.
+/reference/*.png
+/deliverables/v16/option-a/ravenxcope-a5-front-a-v16-draft.png
