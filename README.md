@@ -1,8 +1,15 @@
 # RavenXcope Product Brochure Workspace
 
+## Current v20 candidate
+
+v20 front and back are unapproved candidates; see `deliverables/v20/REVIEW.md`.
+
+
+
+
 ## Start here
 
-Active candidate: [front v16](deliverables/v16/option-a/ravenxcope-a5-front-a-v16.pcraft) ([proof](deliverables/v16/option-a/ravenxcope-a5-front-a-v16.png)) and preserved [back v09](deliverables/v16/option-a/ravenxcope-a5-back-a-v16.pcraft) ([proof](deliverables/v16/option-a/ravenxcope-a5-back-a-v16.png)). Owner review and print approval are pending; **not print-ready**. Review and outstanding checks: [v16 review](deliverables/v16/REVIEW.md) and [print checklist](PRINT_QA_CHECKLIST.md).
+Active candidates: [v20 review](deliverables/v20/REVIEW.md); editable front and back masters and proofs are in `deliverables/v20/option-a/`. Not print-ready.
 
 Open the two `.pcraft` files in PhotoCraft. Build scripts, source assets, placement metadata and reviews are retained for editing and investigation; see [PhotoCraft workflow](PHOTOCRAFT_WORKFLOW.md) for prerequisites and safe rebuild instructions. A staged-files-only test on the local environment exported both masters and rebuilt the front with matching proof pixels; independent installation and fonts remain unverified. No LFS is required for the active masters.
 
@@ -33,4 +40,4 @@ The art direction is dark enterprise cybersecurity editorial, with restrained ve
 
 Official raster logos are in `assets/`; original screenshots are in `assets/ravenxcope/`. Create working copies in `assets/screenshots/ravenxcope/working/` as needed and keep reviewed processed versions in `approved/`. Other asset directories are reserved for architecture, additional brand masters, photography, contacts and printer specifications. An official vector master, validated architecture diagram and printer ICC specifications have not been supplied.
 
-Prior iterations are summarized in `research/LEARNING.md`. Small UI labels and decorative-image resolution require physical-size review. QR must be retested digitally and physically. No verified print PDF or physical print proof has been completed. See `ASSET_MANIFEST.md`, `deliverables/v16/REVIEW.md`, and `PRINT_QA_CHECKLIST.md` for unresolved gates.
+Prior iterations are summarized in `research/LEARNING.md`. Small UI labels and decorative-image resolution require physical-size review. QR must be retested digitally and physically. No verified print PDF or physical print proof has been completed. See `ASSET_MANIFEST.md`, `deliverables/v20/REVIEW.md`, and `PRINT_QA_CHECKLIST.md` for unresolved gates.

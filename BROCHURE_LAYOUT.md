@@ -1,8 +1,12 @@
 # RavenXcope A5 Two-Sided Brochure Layout
 
-## Current v16
+## Current v20 candidate
 
-v16 places two glass cards across screen edges and two across body/keyboard edges, icons above single-line labels. All shells square, 7 pt labels. Primary graph/donut remain visible; right shell crosses the far-right dashboard edge. Review: `deliverables/v16/REVIEW.md`.
+v20 retains front layout and uses four proportionally scaled shell assets on back. Front copy spacing is tight; see `deliverables/v20/REVIEW.md`.
+
+
+
+
 
 ## Historical learning
 

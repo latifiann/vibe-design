@@ -1,8 +1,12 @@
 # Content Guidelines — RavenXcope
 
-## Current v16
+## Current v20 candidate
 
-v16 uses candidate single-line labels “Analitik peringatan”, “Konteks aset”, “Prioritas risiko” and “Alur komunikasi IP”. The latter two refer to documented risk-matrix prioritization and source-to-destination IP communication visualization, not automatic blocking or actual topology. Owner copy approval pending. Original source copy below remains unchanged.
+v20 front and back use owner-reviewed product introduction and back introduction; exact candidate copy appears in `deliverables/v20/edit_v20.py` and editable masters.
+
+
+
+
 
 ## Current v09
 
@@ -35,4 +39,4 @@ Product facts and capability details: `assets/product-documents/ravenxcope/knowl
 
 Group the seven documented capabilities into four concise blocks as specified in `BROCHURE_LAYOUT.md`; do not omit their meaning or invent features. Do not shrink body text to force every detail into A5. Do not use unsupported superlatives or fabricate accuracy, performance, capacity, certifications, integrations, customers or statistics. Do not call the product an IPS, claim automatic blocking, or guarantee real-time detection. Do not transfer Corvus AI or automation claims to RavenXcope. On-premises, firewall compatibility, integration and reporting claims from older guidance require new confirmation. Screenshot values are not evidence of product performance; captures from different times are not a single snapshot.
 
-Historical copy decisions are summarized in `research/LEARNING.md`. Current candidate wording remains in the v16 masters and `deliverables/v16/REVIEW.md`.
+Historical copy decisions are summarized in `research/LEARNING.md`. Current candidate wording remains in the v20 masters and `deliverables/v20/REVIEW.md`.

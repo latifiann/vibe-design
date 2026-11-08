@@ -1,18 +1,22 @@
 # PhotoCraft Workflow for Agentic Editing
 
+## Current v20 candidate
+
+v20 editing uses `deliverables/v20/edit_v20.py` and disposable source copies; independent rebuild not verified. Reopened masters yielded pixel-identical exports.
+
+
+
+
 ## Clean-checkout prerequisites and safety
 
 The active front and back masters and their PNG proofs are tracked; historical masters and full-size proofs were removed. Source and working assets used by the current build, Python scripts, placement metadata and review records are retained. See `README.md` for exact active paths. Prior iteration lessons are in `research/LEARNING.md`.
 
-The recorded production environment used PhotoCraft CLI 0.20.2. Python 3 and Pillow are required by `deliverables/v16/build_v16.py`; Pillow 13.0.0 was observed locally. Exact Python, Pillow and font versions for the original build, font licenses and font installation sources are [NEEDS CONFIRMATION]. Install PhotoCraft from its official source below and obtain fonts through authorized sources.
+The recorded production environment used PhotoCraft CLI 0.20.2. Font sources, licensing, and independent-machine reproducibility remain [NEEDS CONFIRMATION].
 
 On 8 November 2026, a disposable copy made solely from the staged Git index was tested using the local environment. Both active masters converted successfully and their RGB pixels matched the tracked proofs. Rebuilding `--only a-front` in that copy also matched the front proof in RGB. CLI raster export warns that layers are flattened in PNG; the source masters remain layered. This is not an independent fresh-machine install, GUI edit test, font-availability audit, or back regeneration test. Output equivalence on another machine remains unverified.
 
-Run `photocraft-cli --version` and verify the required assets and fonts before building. To test the front only, work in a separate checkout or copy with the same relative paths, remove the generated output only in that disposable copy, and run `python3 deliverables/v16/build_v16.py --only a-front`. The script refuses to overwrite an existing master, but writes other output files when it succeeds. Do not run it over the active workspace. The active back is the preserved v09 master: the v16 script builds the front only and does not regenerate the preserved back. Compare the result against the tracked proof and check missing fonts, embedded assets and editable layers. Do not claim reproducibility without a successful clean build and review.
+Run `photocraft-cli --version` and verify required assets and fonts. Edit only disposable copies and write new versions; v20 source masters and historical builders were removed, so the v20 script cannot independently rebuild from them.
 
-## Current v16
-
-v16 build: `deliverables/v16/build_v16.py`. Supplied variable-alpha glass shell is a separate raster Smart Object, not dynamic blur/refraction. Reopened export matched proof. Crop and QA records in `deliverables/v16/`.
 
 ## Historical learning
 

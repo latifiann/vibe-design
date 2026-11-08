@@ -1,8 +1,12 @@
 # Print and Design QA Checklist
 
-## Current v16
+## Current v20 candidate
 
-v16 master reopen/re-export and object bounds checked. 7 pt label readability, visible-rim padding, alpha haze/glow clipping, screenshot/font validation and vendor/QR/proof approvals remain open. See `deliverables/v16/REVIEW.md`. Not print-ready.
+v20 physical readability, QR digital and physical scans, vendor ICC, PDF and approvals remain outstanding; see `deliverables/v20/REVIEW.md`.
+
+
+
+
 
 ## Historical learning
 

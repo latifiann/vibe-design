@@ -1,6 +1,6 @@
 # RavenXcope brochure iteration learning
 
-Historical v01–v15 files were removed from the working tree in favor of this summary. This is a learning record, not proof of design or print approval. Current masters and QA are in `deliverables/v16/`.
+Historical v01–v19 deliverables were removed in favor of this summary. This is a learning record, not proof of design or print approval. Current candidates and QA are in `deliverables/v20/`.
 
 ## Iterations and decisions
 
@@ -8,17 +8,24 @@ Historical v01–v15 files were removed from the working tree in favor of this s
 - v04 compared two complete concepts with editable text, vector feature illustrations and owner-supplied decorative imagery. Keep screenshots, decoration and text separate. Background sampling near 165 ppi and unprofiled sources need print review.
 - v05 added an owner-supplied decorative laptop and a separate screenshot to option A. The laptop is conceptual, not evidence of an actual device. Its working cutout uses a non-generative aperture/alpha operation; original retained.
 - v06–v08 iterated on full authentic screenshot placement and laptop composition. Option B used no laptop in v07. Do not combine captures from different times into one implied snapshot; screenshot perspective, mask, proportions and UI legibility require inspection.
-- v09: owner chose option A for further iteration, not print approval. Six institutional logos were placed unchanged on the front only, in supplied order. Original row breached the approximate bottom safe area; small logo lettering and optical balance require physical review. Back v09 is the unchanged design now saved as the v16 back. Editable text bounds passed approximate guides, but that did not include the front logo objects. QR decoded digitally to `https://demo.ravenxcope.mataelang.net` at the time; physical scanning remained open.
+- v09: owner chose option A for further iteration, not print approval. Six institutional logos were placed unchanged on the front only, in supplied order. Original row breached the approximate bottom safe area; small logo lettering and optical balance require physical review. Back v09 was preserved unchanged through v16. Editable text bounds passed approximate guides, but that did not include the front logo objects. QR decoded digitally to `https://demo.ravenxcope.mataelang.net` at the time; physical scanning remained open.
 - v10–v12 studied inset badges; v12 replaced glass with an opaque white badge and increased logo padding. Font selection, logo legibility, safe margins, screenshot fidelity and overlap still needed review.
 - v13 introduced two owner-supplied conceptual icons as separate Smart Objects and editable labels; the revised study corrected overlaps. Working copies used alpha >8 bounds plus 25 px padding; no alpha cleanup. Original prompt/model and publication approval [NEEDS CONFIRMATION], no embedded ICC, color interpretation unverified.
 - v14 moved separate foreground icons across the screen edges. v15 grouped icons and editable labels in graphite cards. Both trades increase density and risk obscuring dashboard details; check legibility at physical size, not only layer bounds.
+
+- v16 front adopted four translucent shells with separate conceptual icons and 7 pt editable labels. Owner subsequently edited the front, introducing nested Smart Objects; this owner-edited front served as the basis for v20. The v16 back retained v09. Raster reflections simulate glass, not dynamic refraction. Screenshots behind cards and small labels need physical review; logo badge stays front-only.
+- v17 back studied alignment with the front; an isolated priority-context block repeated the risk panel, and narrow body columns lost useful detail. QR bounds extended 9 px below the approximate bottom safe guide; no decode was available.
+- v18 removed that block and expanded four feature panels to cover inventory, asset context, risk, analytics, IP flow, sensor filters and false-positive review. A supplied review-plate icon replaced the stylistically inconsistent vector triage icon. QR moved inside approximate guides; this did not establish scanability. Analytics text had only about 13 px right padding.
+- v19 edited v18 rather than rebuilding. Revised wrapping increased analytics right padding to about 38 px; candidate triage copy clarified alert-message filtering and false-positive review. Body remained 9.5 pt. Reopened exports matched proofs; QR and physical readability were still unverified.
+- v20 retains the owner-edited visual direction, adds a reviewed introduction and new back shells. Current warnings and approvals are authoritative in `deliverables/v20/REVIEW.md`. Earlier source masters and builders are no longer retained; v20 editing script alone cannot reproduce v20 from the archived source masters.
 
 ## Retained asset provenance
 
 - `assets/generated/Lensa inspeksi dan penanda peringatan.png` and `assets/generated/Tiga pelat inventaris grafit beraksen merah.png`: owner-supplied conceptual v13 icon sources; their working copies are `assets/generated/working/alert-analysis-v13.png` and `assets/generated/working/asset-context-v13.png` respectively. Original prompt/model, publication approval and ICC interpretation [NEEDS CONFIRMATION]. Candidates are not approved evidence of product capability.
 - Owner authorized supplied product screenshots and visible data for brochure publication; repository-wide redistribution permission remains [NEEDS CONFIRMATION]. Preserve source UI and context. Brand logos must remain unchanged.
 - Owner authorized the supplied conceptual hero backgrounds for the earlier comparison, not final design or print approval. Laptop source is owner supplied; permission and color assumptions remain subject to current asset review.
-- Current v16 glass shell, risk and IP-flow candidate provenance and crop records: `deliverables/v16/REVIEW.md` and `deliverables/v16/asset-preparation.json`. Prompt/model and publication approval [NEEDS CONFIRMATION].
+- v16 sources: `assets/generated/Cangkang kartu kaca asap transparan (1).png`, `assets/generated/Matriks prioritas risiko.png`, and `assets/generated/Alur komunikasi IP premium.png`, each 1254 × 1254 RGBA without ICC or DPI. Working crops respectively `assets/generated/working/glass-shell-v16.png` [80,100,1175,1195], `assets/generated/working/risk-priority-v16.png` [112,219,1107,1106], and `assets/generated/working/ip-flow-v16.png` [119,298,1174,1027]. Alpha unchanged; shell crop can clip very-low-alpha glow; center alpha about 30/255. Prompt/model and publication approval [NEEDS CONFIRMATION].
+- v18 triage source `assets/generated/Pelat grafit dan lensa pemeriksaan.png`: 1254 × 1254 RGBA, no ICC/DPI; working crop `assets/generated/working/triage-review-v18.png` [155,273,1042,1053], alpha unchanged. Source prompt/model and publication approval [NEEDS CONFIRMATION].
 
 ## Workflow and unresolved gates
 

@@ -1,16 +1,20 @@
 # RavenXcope Asset Manifest
 
+## Current v20 candidate
+
+v20 uses owner-supplied `assets/generated/Panel kaca asap grafit transparan.png`; working crop `assets/generated/working/back-glass-shell-v20.png`. Alpha, scale and unresolved provenance in `deliverables/v20/REVIEW.md`.
+
+
+
+
 ## Repository distribution
 
-The repository retains active v16 front and v09 back masters and proofs, source/working assets, build scripts and provenance records. Historical archives were removed. The superseded v16 draft PNG, `reference/` PNGs and routine build logs are excluded from Git. `raven-edit-sendiri.png` remains tracked pending owner review. Asset-specific permissions below do not grant blanket public repository redistribution; review rights before publication.
+The repository retains v20 candidate masters and proofs, source/working assets and provenance records. Historical deliverables are summarized in `research/LEARNING.md`. Asset permissions do not grant blanket public repository redistribution.
 
-## Current v16
-
-v16 adds three owner-supplied generated candidates: glass shell, risk matrix and IP-flow icon. Source paths, unknown provenance, alpha/color limitations and approval status: `deliverables/v16/REVIEW.md`. Crop records: `deliverables/v16/asset-preparation.json`. Sources retained unchanged.
 
 ## Historical provenance
 
-Retained v13 icon sources, laptop and conceptual artwork provenance are documented in `research/LEARNING.md`; current v16 asset status is in `deliverables/v16/REVIEW.md`.
+Retained v13 icon sources, laptop and conceptual artwork provenance are documented in `research/LEARNING.md`; v16 asset history is in the same learning record.
 
 ## Official brand files
 
