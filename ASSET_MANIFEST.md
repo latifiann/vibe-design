@@ -1,15 +1,12 @@
 # RavenXcope Asset Manifest
 
-## Current v20 candidate
+## Current v25 package
 
-v20 uses owner-supplied `assets/generated/Panel kaca asap grafit transparan.png`; working crop `assets/generated/working/back-glass-shell-v20.png`. Alpha, scale and unresolved provenance in `deliverables/v20/REVIEW.md`.
-
-
-
+Front and back v25 consolidate earlier candidates. Review pending; not print-ready. See `deliverables/v25/REVIEW.md`; history: `research/LEARNING.md`.
 
 ## Repository distribution
 
-The repository retains v20 candidate masters and proofs, source/working assets and provenance records. Historical deliverables are summarized in `research/LEARNING.md`. Asset permissions do not grant blanket public repository redistribution.
+The repository retains v25 candidate masters and proofs, source/working assets and provenance records. Historical deliverables are summarized in `research/LEARNING.md`. Asset permissions do not grant blanket public repository redistribution.
 
 
 ## Historical provenance

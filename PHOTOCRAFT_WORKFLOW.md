@@ -1,11 +1,8 @@
 # PhotoCraft Workflow for Agentic Editing
 
-## Current v20 candidate
+## Current v25 package
 
-v20 editing uses `deliverables/v20/edit_v20.py` and disposable source copies; independent rebuild not verified. Reopened masters yielded pixel-identical exports.
-
-
-
+Front and back v25 consolidate earlier candidates. Review pending; not print-ready. See `deliverables/v25/REVIEW.md`; history: `research/LEARNING.md`.
 
 ## Clean-checkout prerequisites and safety
 
@@ -15,7 +12,7 @@ The recorded production environment used PhotoCraft CLI 0.20.2. Font sources, li
 
 On 8 November 2026, a disposable copy made solely from the staged Git index was tested using the local environment. Both active masters converted successfully and their RGB pixels matched the tracked proofs. Rebuilding `--only a-front` in that copy also matched the front proof in RGB. CLI raster export warns that layers are flattened in PNG; the source masters remain layered. This is not an independent fresh-machine install, GUI edit test, font-availability audit, or back regeneration test. Output equivalence on another machine remains unverified.
 
-Run `photocraft-cli --version` and verify required assets and fonts. Edit only disposable copies and write new versions; v20 source masters and historical builders were removed, so the v20 script cannot independently rebuild from them.
+Run `photocraft-cli --version` and verify required assets and fonts. Edit only disposable copies and write new versions; historical source masters and builders were removed, so independent reconstruction remains unverified.
 
 
 ## Historical learning

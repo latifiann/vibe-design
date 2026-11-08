@@ -1,0 +1,7 @@
+# v25 consolidated front and back — review pending
+
+The owner requested v25 as the final consolidated package and removal of v20–v24. Final here describes packaging, not design approval or print readiness. Front is a byte-identical copy of the latest front v21 master; back is a byte-identical copy of the latest back v24 master. No design or text was changed. Their fresh PNG exports match the corresponding source proof pixels. Both copied masters opened without warnings, 1819 × 2551 px, RGB 8-bit at 300 ppi; PNG flattening warnings apply only to proof exports.
+
+The two-page `ravenxcope-a5-review-baseline.pdf` is a raster RGB review, not PDF/X or an editable production PDF. It is byte-identical to the previously tested baseline PDF. Its centered A5 TrimBox and 3 mm BleedBox are assumptions, not validation of actual trim or bleed. At 300 ppi its rendered back previously decoded to `https://demo.ravenxcope.mataelang.net`; physical scan and URL availability are untested. See `research/LEARNING.md` for iteration and prepress findings, and `PRINT_QA_CHECKLIST.md` for outstanding gates.
+
+Owner design approval, publication permission for shell and triage icon [NEEDS CONFIRMATION], effective asset resolution, font availability, vendor specifications and ICC, validated production PDF, physical readability, scan, proof and print approval remain open. LEN bottom clearance is near the assumed 8 mm safe boundary; triage six-line text requires physical review. Do not send to print. Originals and source assets remain in `assets/`.

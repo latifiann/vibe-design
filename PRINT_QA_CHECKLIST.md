@@ -1,12 +1,8 @@
 # Print and Design QA Checklist
 
-## Current v20 candidate
+## Current v25 package
 
-v20 physical readability, QR digital and physical scans, vendor ICC, PDF and approvals remain outstanding; see `deliverables/v20/REVIEW.md`.
-
-
-
-
+Front and back v25 consolidate earlier candidates. Review pending; not print-ready. See `deliverables/v25/REVIEW.md`; history: `research/LEARNING.md`.
 
 ## Historical learning
 

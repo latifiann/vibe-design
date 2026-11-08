@@ -1,6 +1,6 @@
 {
   "project": "RavenXcope Product Brochure",
-  "version": "1.20",
+  "version": "1.25",
   "format": {
     "type": "two-sided single-sheet brochure",
     "orientation": "portrait",
@@ -28,10 +28,10 @@
     ]
   },
   "product_claims": "Use only current RavenXcope knowledge or owner-confirmed facts; do not claim IPS or automatic blocking.",
-  "status": "v20_review_pending_not_print_ready",
-  "proof_directory": "deliverables/v20/",
+  "status": "v25_consolidated_review_pending_not_print_ready",
+  "proof_directory": "deliverables/v25/",
   "options": {
-    "a": "v20 front and back review candidates",
+    "a": "front and back v25 consolidated candidates",
     "b": "Historical candidate, no further iteration"
   },
   "product": {
@@ -46,15 +46,15 @@
     "label": "Jelajahi demo",
     "url": "https://demo.ravenxcope.mataelang.net"
   },
-  "back_master": "deliverables/v20/option-a/ravenxcope-a5-back-a-v20.pcraft",
-  "back_proof": "deliverables/v20/option-a/ravenxcope-a5-back-a-v20.png",
-  "front_master": "deliverables/v20/option-a/ravenxcope-a5-front-a-v20.pcraft",
-  "front_proof": "deliverables/v20/option-a/ravenxcope-a5-front-a-v20.png",
+  "back_master": "deliverables/v25/option-a/ravenxcope-a5-back-a-v25.pcraft",
+  "back_proof": "deliverables/v25/option-a/ravenxcope-a5-back-a-v25.png",
+  "front_master": "deliverables/v25/option-a/ravenxcope-a5-front-a-v25.pcraft",
+  "front_proof": "deliverables/v25/option-a/ravenxcope-a5-front-a-v25.png",
   "historical_learning": "research/LEARNING.md",
-  "back_candidate_master": "deliverables/v20/option-a/ravenxcope-a5-back-a-v20.pcraft",
-  "back_candidate_proof": "deliverables/v20/option-a/ravenxcope-a5-back-a-v20.png",
+  "back_candidate_master": "deliverables/v25/option-a/ravenxcope-a5-back-a-v25.pcraft",
+  "back_candidate_proof": "deliverables/v25/option-a/ravenxcope-a5-back-a-v25.png",
   "back_candidate_status": "review_pending_not_print_ready",
-  "front_candidate_master": "deliverables/v20/option-a/ravenxcope-a5-front-a-v20.pcraft",
-  "front_candidate_proof": "deliverables/v20/option-a/ravenxcope-a5-front-a-v20.png",
+  "front_candidate_master": "deliverables/v25/option-a/ravenxcope-a5-front-a-v25.pcraft",
+  "front_candidate_proof": "deliverables/v25/option-a/ravenxcope-a5-front-a-v25.png",
   "front_candidate_status": "review_pending_not_print_ready"
 }

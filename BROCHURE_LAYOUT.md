@@ -1,12 +1,8 @@
 # RavenXcope A5 Two-Sided Brochure Layout
 
-## Current v20 candidate
+## Current v25 package
 
-v20 retains front layout and uses four proportionally scaled shell assets on back. Front copy spacing is tight; see `deliverables/v20/REVIEW.md`.
-
-
-
-
+Front and back v25 consolidate earlier candidates. Review pending; not print-ready. See `deliverables/v25/REVIEW.md`; history: `research/LEARNING.md`.
 
 ## Historical learning
 

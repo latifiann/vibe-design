@@ -1,6 +1,6 @@
 # RavenXcope brochure iteration learning
 
-Historical v01–v19 deliverables were removed in favor of this summary. This is a learning record, not proof of design or print approval. Current candidates and QA are in `deliverables/v20/`.
+Historical v01–v24 deliverables were removed in favor of this summary. This is a learning record, not proof of design or print approval. The consolidated front–back package and QA are in `deliverables/v25/`.
 
 ## Iterations and decisions
 
@@ -17,7 +17,9 @@ Historical v01–v19 deliverables were removed in favor of this summary. This is
 - v17 back studied alignment with the front; an isolated priority-context block repeated the risk panel, and narrow body columns lost useful detail. QR bounds extended 9 px below the approximate bottom safe guide; no decode was available.
 - v18 removed that block and expanded four feature panels to cover inventory, asset context, risk, analytics, IP flow, sensor filters and false-positive review. A supplied review-plate icon replaced the stylistically inconsistent vector triage icon. QR moved inside approximate guides; this did not establish scanability. Analytics text had only about 13 px right padding.
 - v19 edited v18 rather than rebuilding. Revised wrapping increased analytics right padding to about 38 px; candidate triage copy clarified alert-message filtering and false-positive review. Body remained 9.5 pt. Reopened exports matched proofs; QR and physical readability were still unverified.
-- v20 retains the owner-edited visual direction, adds a reviewed introduction and new back shells. Current warnings and approvals are authoritative in `deliverables/v20/REVIEW.md`. Earlier source masters and builders are no longer retained; v20 editing script alone cannot reproduce v20 from the archived source masters.
+- v20 retained the owner-edited visual direction, reviewed introduction and four back shells. Front introduction spacing was tight; font face, contrast and physical legibility remained unverified. Shell source `assets/generated/Panel kaca asap grafit transparan.png`, working crop `assets/generated/working/back-glass-shell-v20.png`, retains original alpha; source prompt/model and publication permission [NEEDS CONFIRMATION]. Crop [62,92,1422,969] was scaled uniformly to 715 × 461 px, approximately 570 effective ppi. Source had no embedded ICC or DPI. Independent reconstruction was not verified.
+- v21 refined introductions; owner later manually edited the back. v22 updated the CTA, and its proof was regenerated after the owner's manual edits. v23 added editable warm CTA stroke, inner glow and clipped corner bloom; QR-adjacent antialiased pixels differed slightly from v22 even though QR object was not edited. v24 revised inventory, analytics and triage copy; body stayed 9.5 pt. Triage uses six lines and roughly 36 px bottom clearance; review physically. v24 QR crop was pixel-identical to v23. Front v21 and back v24 were copied byte-for-byte into v25; earlier version directories were removed by owner request.
+- Digital prepress audit found 1819 × 2551 px, 300 ppi, RGB 8-bit, proof PNGs carrying sRGB IEC61966-2.1. A hypothetical centered 3 mm bleed leaves LEN logo about 8 mm from trim, at the assumed safe boundary. Baseline PDF rasterizes both pages, uses A5 trim and 3 mm bleed boxes; it is not PDF/X. Chromium decoded its rendered back QR to `https://demo.ravenxcope.mataelang.net`; this does not establish physical scanability. Vendor ICC, actual trim, effective asset resolution, font availability, physical proof, design and print approval remain open.
 
 ## Retained asset provenance
 

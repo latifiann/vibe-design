@@ -1,15 +1,15 @@
 # AGENTS.md — RavenXcope Brochure Workspace
 
-## Current v20 candidate
+## Current v25 package
 
-v20 front and back are unapproved review candidates; historical deliverables are summarized in `research/LEARNING.md`. See `deliverables/v20/REVIEW.md`; not print-ready.
+Front and back v25 consolidate previous candidates, without design or print approval. See `deliverables/v25/REVIEW.md`; not print-ready. Historical deliverables are summarized in `research/LEARNING.md`.
 
 
 
 
 ## Repository tracking
 
-Track the current editable front and back masters, their proofs, required source assets, scripts and review metadata. Historical v01–v19 archives were removed; `research/LEARNING.md` records key lessons. Visual reference PNGs and routine build logs remain excluded by `.gitignore`. Update exceptions and documentation when the active candidate changes. Rebuild only in a disposable copy; the historical front build was tested locally, but its source master and builder were removed; independent-machine reproducibility remains unverified. Keep active source assets and provenance intact.
+Track the current editable front and back masters, their proofs, required source assets, scripts and review metadata. Historical v01–v24 archives were removed; `research/LEARNING.md` records key lessons. Visual reference PNGs and routine build logs remain excluded by `.gitignore`. Update exceptions and documentation when the active candidate changes. Rebuild only in a disposable copy; the historical front build was tested locally, but its source master and builder were removed; independent-machine reproducibility remains unverified. Keep active source assets and provenance intact.
 
 
 ## Historical learning
